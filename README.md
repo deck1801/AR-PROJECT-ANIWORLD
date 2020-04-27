@@ -17,4 +17,6 @@
 
 ## SOME SNAPSHOTS OF APP:-
    
- ![](Screenshot_20200427_093613_com.example.parttwo%5B1%5D.jpg)
+<img src="Screenshot_20200427_093613_com.example.parttwo[1].jpg" width=200 height=100>
+<img src="Screenshot_20200427_093631_com.example.parttwo[1].jpg" width=200 height=100>
+<img src="Screenshot_20200427_093815_com.example.parttwo[1].jpg" width=200 height=100>
