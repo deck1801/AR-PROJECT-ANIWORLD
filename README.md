@@ -17,6 +17,11 @@
 
 ## SOME SNAPSHOTS OF APP:-
    
-<img src="Screenshot_20200427_093613_com.example.parttwo[1].jpg" width=200 height=100>
-<img src="Screenshot_20200427_093631_com.example.parttwo[1].jpg" width=200 height=100>
-<img src="Screenshot_20200427_093815_com.example.parttwo[1].jpg" width=200 height=100>
+#### Image 1:-
+<img src="Screenshot_20200427_093613_com.example.parttwo[1].jpg" width=200 height=700></img>
+
+### Image 2:-
+<img src="Screenshot_20200427_093631_com.example.parttwo[1].jpg" width=200 height=700></img>
+
+### Image 3:-
+<img src="Screenshot_20200427_093815_com.example.parttwo[1].jpg" width=200 height=700></img>
